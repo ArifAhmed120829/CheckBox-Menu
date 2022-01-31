@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Menu &amp; CheckBox</string>
+    <string-array name="Ten_school_position_titles">
+        <item>Food service worker</item>
+        <item>Custodian</item>
+        <item>Teacher</item>
+        <item>Teaching assistant</item>
+        <item>Crossing guard</item>
+        <item> Sports coach</item>
+        <item>School bus driver</item>
+        <item>Academic adviser</item>
+        <item>Groundskeeper</item>
+        <item>Maintenance technician</item>
+
+    </string-array>
 </resources>
